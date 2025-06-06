@@ -34,5 +34,3 @@ python q1.py
 Substitua `q1.py` pelo nome do arquivo Python que contém a solução da questão desejada.
 
 ---
-
-Sinta-se à vontade para explorar cada pasta e testar as soluções.
