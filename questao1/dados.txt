@@ -1,0 +1,8 @@
+nome|cpf|nascimento
+João da Silva|123.456.789-22|1990-01-01
+Maria de Fátima Souza|87.654.321-34|1985-06-15
+Antônio José Márcio|23,654,543-10|1990-07-08
+Mário Alcântara Valadão|42-654-543-11|1989-09-25
+Érica Valéria Marquês|2-856,543-01|1968-10-29
+Jéssica Alaor Martinésia|92-154,563-01|1968-10-29
+Romilda Teotônio Vilela|9-957,843-01|1968-10-29
